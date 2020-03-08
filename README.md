@@ -602,9 +602,8 @@ class SpringbootEsApplicationTests {
 
 以上步骤全部完毕后，启动项目，默认访问 [http://localhost:8080/index.html](http://localhost:8080/index.html)
 
-展示如下
-
-![](https://tva1.sinaimg.cn/large/00831rSTgy1gcml06bfb5j31wo0ngjzb.jpg)
+![](https://tva1.sinaimg.cn/large/00831rSTgy1gcmlnujm3jj312w0u0qv5.jpg)
+https://tva1.sinaimg.cn/large/00831rSTgy1gcmlnujm3jj312w0u0qv5.jpg
 
 
 
