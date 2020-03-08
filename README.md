@@ -596,6 +596,14 @@ class SpringbootEsApplicationTests {
 
 ![](https://tva1.sinaimg.cn/large/00831rSTgy1gcml06bfb5j31wo0ngjzb.jpg)
 
+给一个完整的例子
+
+[https://github.com/yizhichengSpring/springboot-es-blog](https://github.com/yizhichengSpring/springboot-es-blog)
+
+以上步骤全部完毕后，启动项目，默认访问 [http://localhost:8080/index.html](http://localhost:8080/index.html)
+
+![](https://tva1.sinaimg.cn/large/00831rSTgy1gcmlnujm3jj312w0u0qv5.jpg)
+
 
 
 
